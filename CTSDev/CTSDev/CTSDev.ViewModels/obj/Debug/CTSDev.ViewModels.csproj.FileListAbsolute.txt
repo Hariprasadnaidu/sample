@@ -1,0 +1,7 @@
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\bin\Debug\CTSDev.ViewModels.dll.config
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\bin\Debug\CTSDev.ViewModels.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\bin\Debug\CTSDev.ViewModels.pdb
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\bin\Debug\EntityFramework.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\bin\Debug\EntityFramework.xml
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\obj\Debug\CTSDev.ViewModels.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.ViewModels\obj\Debug\CTSDev.ViewModels.pdb

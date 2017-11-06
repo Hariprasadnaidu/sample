@@ -1,0 +1,60 @@
+﻿@using CTSDev.Models;
+@model CorrCompInfo
+@{
+    ViewBag.Title = "TrackigInfo";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+	@using (Html.BeginForm())
+	{
+		<div class="lg-bg">
+			<form name="login">
+				<div class="lg-head">
+					<div class="brand-logo">
+						<img src="~/Content/Images/prime-technology-group.min.png" alt="Prime" />
+					</div>
+					@* <p>@ConfigurationHelper.GetString("ApplicationName")</p>*@
+				</div>
+				<div class="form-grp cf">
+					<div class="grp1">
+						<div class="gap">@Html.Label("lbltktnumber", "Ticket No. / Complaint No.:")</div>
+						<div>
+							@Html.TextBoxFor(m => m.cc_number, new { required = true, autocomplete = "off" })
+						</div>
+					</div>
+					<!-- end of grp1 -->
+					<div class="grp2 err-icon">
+						<a href="#" id="UserNameErrNotes" class="tooltip" style="display: none;">
+							<img src="~/Content/Images/danger-icon-2.png" alt="">
+						</a>
+					</div>
+					<!--end of grp2-->
+					<div class="grp1">
+						<div class="gap">@Html.Label("lblother", "Other:")</div>
+						<div>@Html.PasswordFor(m => m.poc_other, new { required = true, autocomplete = "off" })</div>
+					</div>
+					<!-- end of grp1 -->
+					<div class="grp2 err-icon">
+						<a href="#" id="PasswordErrNotes" class="tooltip" style="display: none;">
+							<img src="~/Content/Images/danger-icon-2.png" alt="">
+						</a>
+					</div>
+					<b style="color: red">@ViewBag.Message</b>
+					<!--end of grp2-->
+				</div>
+				<!-- end of form-grp -->
+
+				<div class="gap" style="text-align: right">
+					<input type="submit" class="btn btn-sm btn-primary" value="LOGIN" id="btnSubmit" />
+					@*<input type="reset" value="Cancel" />*@
+				</div>
+			</form>
+
+
+		</div>
+        <!-- end of lg-bg -->
+
+	}
+
+</body>

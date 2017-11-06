@@ -1,0 +1,14 @@
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.Facade.dll.config
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.Facade.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.Facade.pdb
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.DataLayer.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.Models.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.ViewModels.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\EntityFramework.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.DataLayer.pdb
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.Models.pdb
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\CTSDev.ViewModels.pdb
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\bin\Debug\EntityFramework.xml
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\obj\Debug\CTSDev.Facade.csprojResolveAssemblyReference.cache
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\obj\Debug\CTSDev.Facade.dll
+c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Facade\obj\Debug\CTSDev.Facade.pdb
