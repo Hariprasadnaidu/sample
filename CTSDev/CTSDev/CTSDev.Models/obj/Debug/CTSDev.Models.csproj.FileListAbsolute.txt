@@ -1,8 +1,0 @@
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\bin\Debug\CTSDev.Models.dll.config
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\bin\Debug\CTSDev.Models.dll
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\bin\Debug\CTSDev.Models.pdb
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\bin\Debug\EntityFramework.dll
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\bin\Debug\EntityFramework.xml
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\obj\Debug\CTSDev.Models.dll
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\obj\Debug\CTSDev.Models.pdb
-c:\Users\Ravi\documents\visual studio 2012\Projects\CTSDev\CTSDev.Models\obj\Debug\CTSDev.Models.csprojResolveAssemblyReference.cache
